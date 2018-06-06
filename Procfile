@@ -1,1 +1,1 @@
-worker : python Nanna.py
+worker: python Nanna.py
